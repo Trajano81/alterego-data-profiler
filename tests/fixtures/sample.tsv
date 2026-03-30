@@ -1,0 +1,11 @@
+id	name	email	age	is_active	created_at
+1	Alice	alice@example.com	25	True	2024-01-15
+2	Bob	bob@test.org	30	False	2024-02-20
+3	Carlos	carlos@mail.co	35	True	2024-03-10
+4	Diana	diana@example.com	28	True	2024-04-05
+5	Eve	eve@test.org	42	False	2024-05-12
+6	Frank	frank@mail.co	33	True	2024-06-18
+7	Grace	grace@example.com	27	False	2024-07-22
+8	Hector	hector@test.org	45	True	2024-08-30
+9	Ivy	ivy@mail.co	31	True	2024-09-14
+10	Jack	jack@example.com	29	False	2024-10-01
